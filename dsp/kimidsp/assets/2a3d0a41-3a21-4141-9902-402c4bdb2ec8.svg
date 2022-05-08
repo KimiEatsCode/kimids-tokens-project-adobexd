@@ -1,0 +1,5 @@
+<svg id="Header_Label" data-name="Header Label" xmlns="http://www.w3.org/2000/svg" width="1213" height="127.5" viewBox="0 0 1213 127.5">
+  <text id="Header" transform="translate(0 83)" fill="#343a40" font-size="56" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Colors</tspan></text>
+  <text id="Header-2" data-name="Header" transform="translate(1 17)" fill="#343a40" font-size="18" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Boostrap v5 UI Kit</tspan></text>
+  <path id="line" d="M76,194.628H1289" transform="translate(-76 -67.628)" fill="none" stroke="#6c757d" stroke-width="1"/>
+</svg>
